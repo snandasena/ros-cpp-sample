@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+src/tutorials/.idea/
+src/tutorials/cmake-build-debug/
