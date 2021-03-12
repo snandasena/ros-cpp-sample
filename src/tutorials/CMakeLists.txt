@@ -207,5 +207,9 @@ include_directories(
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
 
-add_executable(tutorilas src/talker.cpp)
-target_link_libraries(tutorilas ${catkin_LIBRARIES})
+add_executable(talker src/talker.cpp)
+target_link_libraries(talker ${catkin_LIBRARIES})
+
+add_executable(listner src/listner.cpp)
+target_link_libraries(listner ${catkin_LIBRARIES})
+
