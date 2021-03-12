@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sajith/Robotics/ros_example/devel -DCMAKE_INSTALL_PREFIX=/home/sajith/Robotics/ros_example/install -G Unix Makefiles
