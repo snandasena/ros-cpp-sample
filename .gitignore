@@ -32,3 +32,6 @@
 *.app
 src/tutorials/.idea/
 src/tutorials/cmake-build-debug/
+
+src/.idea/
+src/cmake-build-debug/
